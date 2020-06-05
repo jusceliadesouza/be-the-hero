@@ -3,15 +3,15 @@ Projeto desenvolvido durante o bootcamp Omnistack 11, em março de 2020, que con
 
 ## 💻 Executar
 ### No computador
-Para rodar a plataforma em seu computador, você deverá executar os seguintes comandos para cada uma das pastas.
+Para rodar a plataforma em seu computador, você deverá executar os seguintes comandos nas pastas **backend** e **frontend**.
 
 ```bash
 $ npm install
 $ npm start
 ```
-### No Smartphone
-- Instale o [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR)
-- Execute os comandos anteriores na pasta Mobile
-- Abra o Expo no aparelho e selecione a opção Scan QR Code e aponte o aparelho para o QR Code que aparecerá no navegador
+### No smartphone
+1. Instale o [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR)
+2. Execute os comandos anteriores na pasta **mobile**
+3. Abra o Expo no aparelho e selecione a opção *Scan QR Code* e aponte a câmera traseira do aparelho para leitura do QR Code, que aparecerá no navegador.
 
 #### Obrigada! ❤
